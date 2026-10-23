@@ -1,51 +1,26 @@
-Command
 
-Purpose
+# Git and GitHub Practice 🚀
 
-git init
+## About This Project
+This is my first Git and GitHub practice repository. I am learning how to manage code, track changes, and upload projects to GitHub.
 
-Initialize a repository
+## What I Have Learned
+- Creating a Git repository
+- Using `git init`
+- Checking changes with `git status`
+- Staging files with `git add`
+- Saving changes with `git commit`
+- Creating and switching branches
+- Uploading code using `git push`
 
-git status
+## Tools Used
+- Git
+- GitHub
+- Visual Studio Code
+- Windows PowerShell
 
-Check repository status
+## My Goal
+My goal is to improve my Git and GitHub skills and become a professional React.js developer.
 
-git add .
-
-Stage changes
-
-git commit -m "message"
-
-Save staged changes
-
-git branch
-
-List branches
-
-git switch branch-name
-
-Switch branches
-
-git switch -c new-branch
-
-Create and switch branches
-
-git log --oneline
-
-View commit history
-
-git remote -v
-
-View remote repositories
-
-git push -u origin main
-
-Push and configure upstream
-
-git pull
-
-Fetch and integrate remote changes
-
-git stash
-
-Temporarily save working changes
+## Author
+Ayush Kumar
